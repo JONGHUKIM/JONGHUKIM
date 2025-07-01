@@ -5,4 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JONGHUKIM&layout=compact)](https://github.com/JONGHUKIM/github-readme-stats)
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20there&fontColor=ffffff&fontSize=70)
+
 
