@@ -1,4 +1,5 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20I'm%20JongHu&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20I'm%20JongHu&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer&descAlign=60&descAlignY=44)
+
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
