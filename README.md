@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20I'm%20JongHu&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Developer&descAlign=60&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello%20&fontAlign=70&rotate=13&fontAlignY=25&desc=I%27m%20JongHu&descAlign=60&descAlignY=44)
 
 
 
